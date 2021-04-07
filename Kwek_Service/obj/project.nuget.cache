@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6SV49g12z87LVd6J1gFvaPuJUTesmrT0C8l92AwOukY6F5499SOi4ciUafSdRYdqUFeUj8z6WvilikwlHmRsYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\StefanV\\Documents\\School\\S6\\Kwekker_KwekService\\Kwek_Service\\Kwek_Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\StefanV\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
